@@ -4,3 +4,4 @@ Laranja
 Limão
 Bananas
 Maçã
+Morango
